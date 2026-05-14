@@ -10,7 +10,7 @@ It begins with a **Mini E-Commerce Store** and will expand to include more appli
 
 ## 🎯 Purpose
 The goal of this repository is to showcase my ability to build practical, hands-on Next.js projects.  
-It serves as part of my portfolio for recruiters and collaborators.
+It serves as part of my portfolio for recruiters and collaborators
 
 ## 🚀 How to Run
 1. Clone the repository:
